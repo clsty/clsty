@@ -1,5 +1,5 @@
 # `clsty` = ✨Celestial.y✨
-- _自然语言 - Locale:_ 简体中文 `zh_CN` | English `en_US`
+- **自然语言 - Locale:** 简体中文 `zh_CN` | English `en_US`
 - 代码语言 - Code Lang: `python`|`bash`|`Emacs Lisp`
 - 操作系统 - OS: GNU/Linux|Windows 11
 - 编辑器 - Editor: GNU Emacs|Vim
