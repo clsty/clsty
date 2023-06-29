@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 
 -->
 
+![中国用户友好型 Arch Live CD](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=arCNiso&theme=one_dark_pro)
 ![简体中文的 Emacs Evil 实践式教程](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=evil-tutor-sc&theme=one_dark_pro)
