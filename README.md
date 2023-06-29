@@ -1,4 +1,5 @@
 # `clsty` = ✨Celestial.y✨
+| 项目 - Item | 状态 - Status |
 | :---: | :---: |
 | **自然语言 - Locale** | [简体中文 `zh_CN`] [English `en_US`] |
 | **代码语言 - Code Lang** | [python] [bash] [Emacs Lisp] |
