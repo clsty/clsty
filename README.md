@@ -1,5 +1,4 @@
 简体中文 | [English](https://github.com/clsty/clsty/blob/main/README-en_US.md)
-[简体中文](https://github.com/clsty) | English
 # `clsty` = ✨Celestial.y✨
 | 项目 | 状态 |
 | :---: | :---: |
