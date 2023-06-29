@@ -2,7 +2,7 @@
 # `clsty` = ✨Celestial.y✨
 | 项目 | 状态 |
 | :---: | :---: |
-| **自然语言** | [简体中文 `zh_CN`] [英语 `en_US`] |
+| **自然语言** | [简体中文 `zh_CN`]·[英语 `en_US`] |
 | **代码语言** | [python] [bash] [Emacs Lisp] |
 | **操作系统** | [GNU/Linux] [Windows 11] |
 | **编辑器** | [GNU Emacs] [Vim] |
