@@ -1,5 +1,7 @@
-### Hi there 👋
-
+# clsty = Celestial.y
+- Lang: Simplified Chinese (`zh_CN`), English (`en_US`)
+- OS: GNU/Linux
+- Editor: GNU Emacs
 <!--
 **clsty/clsty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![clsty@GitHub](https://github-readme-stats.vercel.app/api?username=clsty&show_icons=true&theme=one_dark_pro)
+
 -->
+
+![简体中文的 Emacs Evil 实践式教程](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=evil-tutor-sc&theme=one_dark_pro)
