@@ -2,10 +2,10 @@
 # `clsty` = ✨Celestial.y✨
 | 属性 | 值 |
 | :---: | :---: |
-| **自然语言** | 简体中文 `zh_CN`・英语 `en_US` |
-| **代码语言** | python・bash・Emacs Lisp |
-| **操作系统** | GNU/Linux・Windows 11 |
-| **编辑器** | GNU Emacs・Vim |
+| 自然语言 | 简体中文 `zh_CN`・英语 `en_US` |
+| 代码语言 | python・bash・Emacs Lisp |
+| 操作系统 | GNU/Linux・Windows 11 |
+| 编辑器 | GNU Emacs・Vim |
 
 ## 代表项目
 ### arCNiso：中国用户友好型的 Arch Live CD。
@@ -16,4 +16,4 @@
 ### evil-tutor-sc：简体中文的 Emacs Evil 实践式教程。
 [![evil-tutor-sc](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=evil-tutor-sc&locale=cn&theme=one_dark_pro)](https://github.com/clsty/evil-tutor-sc)
 - 特性：教学优化，细节打磨。
-- 此插件已被收录于 [![MELPA](https://melpa.org/packages/evil-tutor-sc-badge.svg)](https://melpa.org/#/evil-tutor-sc)。
+- [![MELPA](https://melpa.org/packages/evil-tutor-sc-badge.svg)](https://melpa.org/#/evil-tutor-sc) 此插件已被 MELPA 收录。
