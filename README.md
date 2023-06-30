@@ -1,6 +1,6 @@
 简体中文 | [English](https://github.com/clsty/clsty/blob/main/README-en_US.md)
 # `clsty` = ✨Celestial.y✨
-| 项目 | 状态 |
+| 属性 | 值 |
 | :---: | :---: |
 | **自然语言** | 简体中文 `zh_CN`・英语 `en_US` |
 | **代码语言** | python・bash・Emacs Lisp |
