@@ -15,5 +15,5 @@
   - 构建与发布全流程自动化。
 ### evil-tutor-sc：Emacs Evil 实践式教程（简体中文）。
 [![evil-tutor-sc](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=evil-tutor-sc&locale=cn&theme=one_dark_pro)](https://github.com/clsty/evil-tutor-sc)
-- 此插件已被 MELPA 收录：[![MELPA](https://melpa.org/packages/evil-tutor-sc-badge.svg)](https://melpa.org/#/evil-tutor-sc)
+- 此插件已被 MELPA 收录：[![MELPA](https://melpa.org/packages/evil-tutor-sc-badge.svg)](https://melpa.org/#/evil-tutor-sc) [![MELPA Stable](https://stable.melpa.org/packages/evil-tutor-sc-badge.svg)](https://stable.melpa.org/#/evil-tutor-sc)
 - 特性：简体中文全覆盖，细节经打磨优化，增强可读性与易学性。
