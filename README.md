@@ -12,7 +12,7 @@
 [![arCNiso](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=arCNiso&title=arCN&locale=cn&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)](https://github.com/clsty/arCNiso)
 - 特性：
   - 对新手引导友好、对熟手高效实用。
-  - 支持触摸屏、WiFi 网页认证连接、中文输入法等。
+  - 支持触摸屏、WiFi 网页认证连接、中文输入法等等。
   - 构建与发布全流程自动化。
 ### evil-tutor-sc：Emacs Evil 实践式教程（简体中文）。
 [![evil-tutor-sc](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=evil-tutor-sc&locale=cn&theme=one_dark_pro)](https://github.com/clsty/evil-tutor-sc)
