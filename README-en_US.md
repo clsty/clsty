@@ -13,5 +13,5 @@
 - NOTE: **Currently the project has no plan for other regions**, but feel free to fork this project and modify to make your own under its license.
 - Features:
   - Friendly to beginners, efficient for power users.
-  - Support touch screen, WiFi webpage authentication, etc.
+  - Support touch screen, WiFi webpage authentication, secure boot, etc.
   - Build and publish processes are all automatic.
