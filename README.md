@@ -1,11 +1,6 @@
 简体中文 | [English](https://github.com/clsty/clsty/blob/main/README-en_US.md)
-# `clsty` = ✨Celestial.y✨
-| 属性 | 值 |
-| :---: | :---: |
-| 自然语言 | 简体中文 `zh_CN`・英语 `en_US` |
-| 代码语言 | python・html・bash・Emacs Lisp |
-| 操作系统 | GNU/Linux・Windows 11 |
-| 编辑器 | GNU Emacs・Vim |
+
+[关于我](https://blog.celestialy.top/about/#%e5%85%b3%e4%ba%8e%e6%88%91)
 
 ## 代表项目
 ### arCNiso：中国用户友好型的 Arch Live CD。
