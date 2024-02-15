@@ -1,6 +1,6 @@
 简体中文 | [English](https://github.com/clsty/clsty/blob/main/README-en_US.md)
 
-### [关于我](https://blog.celestialy.top/about/#%e5%85%b3%e4%ba%8e%e6%88%91)
+### [关于我](https://blog.celestialy.top/#%e5%85%b3%e4%ba%8e%e6%88%91)
 
 ### arCNiso：中国用户友好型的 Arch Live CD。
 [![arCNiso](https://github-readme-stats.vercel.app/api/pin?username=clsty&repo=arCNiso&title=arCN&locale=cn&title_color=fff&icon_color=fff&text_color=fff&bg_color=30,e96443,904e95)](https://github.com/clsty/arCNiso)
