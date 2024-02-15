@@ -3,7 +3,7 @@
 | Item | Status |
 | :---: | :---: |
 | **Locale** | [Simplified Chinese `zh_CN`] [English `en_US`] |
-| **Code Lang** | [python] [html] [bash] [Emacs Lisp] |
+| **Code Lang** | [bash] [Emacs Lisp] |
 | **OS** | [GNU/Linux] [Windows 11] |
 | **Editor** | [GNU Emacs] [Vim] |
 
